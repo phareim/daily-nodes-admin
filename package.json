@@ -1,0 +1,14 @@
+{
+    "name": "daily-node-projects",
+    "version": "0.0.1",
+    "dependencies" : {
+
+    },
+    "devDependencies" : {
+        "mocha":"*",
+        "should":"*",
+        "grunt" : "*",
+        "grunt-contrib-jshint" : "*",
+        "grunt-contrib-watch" : "*"
+    }
+}
